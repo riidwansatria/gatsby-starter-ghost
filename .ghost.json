@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ridwan.supergeografi.com",
+    "contentApiKey": "dfb5576f090d52a7702bf4bde9"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ridwan.supergeografi.com",
+    "contentApiKey": "dfb5576f090d52a7702bf4bde9"
   }
 }
